@@ -1,0 +1,7 @@
+Ce projet est une simulation d'un ordonnanceur de processus, un composant essentiel des systèmes d'exploitation qui gère l'allocation du processeur aux différents processus en attente d'exécution. L'ordonnanceur est chargé de choisir quel processus exécuter et pour combien de temps, en fonction de différents critères et algorithmes de planification.
+
+Dans cette simulation, nous avons implémenté deux algorithmes de planification couramment utilisés : le premier-arrivé, premier-servi (FIFO) et le tour par tour (Round Robin). Le programme permet aux utilisateurs d'entrer les informations initiales des processus, de visualiser la file d'attente des processus prêts, d'appliquer les algorithmes de planification sélectionnés et de générer des graphiques pour représenter l'exécution des processus dans le temps.
+
+Ce projet met en pratique les concepts théoriques des systèmes d'exploitation, tels que la gestion des processus, les algorithmes d'ordonnancement et la représentation visuelle des résultats. Il illustre également l'adoption des principes du logiciel libre et open source en rendant le code accessible à tous sur la plateforme GitHub, favorisant ainsi la collaboration et le partage des connaissances dans la communauté informatique.
+
+En résumé, cette simulation d'un ordonnanceur de processus constitue un outil pédagogique précieux pour comprendre le fonctionnement interne des systèmes d'exploitation et les principes fondamentaux de la gestion des processus.
